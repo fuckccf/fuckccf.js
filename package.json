@@ -1,0 +1,35 @@
+{
+  "name": "fuckccf.js",
+  "version": "11.45.14",
+  "description": "在代码里表达对CCF的不满",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./index.ts --declaration",
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuckccf/fuckccf.js.git"
+  },
+  "keywords": [
+    "fuck",
+    "ccf",
+    "oi",
+    "oier",
+    "akioi",
+    "cspjs",
+    "china",
+    "collecting-money",
+    "federation"
+  ],
+  "author": "dsy4567",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fuckccf/fuckccf.js/issues"
+  },
+  "homepage": "https://github.com/fuckccf/fuckccf.js#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
